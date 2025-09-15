@@ -9,13 +9,13 @@ body {
     font-family: Arial, sans-serif;
     text align: center;
     background-color: salmon;
-    color: ruby;
+    color:red;
     margin-left: 20 px;
     margin-right: 20 px;
 }
 
 h1{
-    color: ruby;
+    color: red;
     font-size: 100px;
 }
 
@@ -39,7 +39,7 @@ p{
 }
 
 .movie1 h2, .movie2 h3, .movie3 h4 {
-    color: ruby;
+    color: red;
     font-size: 30px;
     margin-bottom: 10px;
 }
