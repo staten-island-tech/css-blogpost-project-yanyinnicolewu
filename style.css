@@ -9,18 +9,18 @@ body {
     font-family: Arial, sans-serif;
     text align: center;
     background-color: salmon;
-    color:rgb(173, 4, 4);
-    margin-left: 20 px;
-    margin-right: 20 px;
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 h1{
-    color: rgb(174, 4, 4);
+    color: white;
     font-size: 100px;
 }
 
 p{
-    font-size: 30px;
+    font-size: 50px;
     margin-bottom: 40px;
 }
 
@@ -39,12 +39,12 @@ p{
 }
 
 .movie1 h2, .movie2 h3, .movie3 h4 {
-    color: rgb(174, 4, 4);
-    font-size: 30px;
+    color: white;
+    font-size: 50px;
     margin-bottom: 10px;
 }
 
 .movie1 p, .movie2 p, .movie3 p {
-    font-size: 20px;
+    font-size: 30px;
     text-align: center;
 }
