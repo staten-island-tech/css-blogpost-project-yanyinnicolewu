@@ -1,0 +1,50 @@
+html,
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text align: center;
+    background-color: salmon;
+    color: ruby;
+    margin-left: 20 px;
+    margin-right: 20 px;
+}
+
+h1{
+    color: ruby;
+    front-size: 100px;
+}
+
+p{
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+.movie1, .movie2, .movie3 {
+    background-color: salmon;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom:30px;
+}
+
+.movie1 img, .movie2 img, .movie3 img {
+    width: 100%;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.movie1 h2, .movie2 h3, .movie3 h4 {
+    color: ruby;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.movie1 p, .movie2 p, .movie3 p {
+    font-size: 20px;
+    text-align: center;
+}
